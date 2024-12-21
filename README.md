@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1>Hello I'm Alberto, an <a href="www.linkedin.com/in/alberto-mcwhirter-javier-64413078/">IT Specialist</a>☺</h1>
 
-<!--
-**xmen12cc/xmen12cc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🖥️ Information Technology Projects🖥</h2>
 
-Here are some ideas to get you started:
+- <b> osTicket: Creating a Ticketing System for Help Desk </b>
+  - [osTicket: Prerequisites and Installation](//Enter Link//)
+  - [osTicket: Post-Installation Configuration](//Enter Link//)
+  - [osTicket: Ticket Lifecycle Examples](//Enter Link//)
+- <b>Microsoft Azure</b>
+  - [Setting Up Active Directory using Azure VMs](//Enter Link//)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](//Enter Link//)
+- <b>Virtual Private Network</b>
+  - [VPN Setup in Virtual Machine ](//Enter Link//)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📩Contact Me</h2>
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]:www.linkedin.com/in/alberto-mcwhirter-javier-64413078
