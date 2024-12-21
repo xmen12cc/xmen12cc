@@ -11,6 +11,11 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/xmen12cc/azure-network-protocols)
 - <b>Virtual Private Network</b>
   - [VPN Setup in Virtual Machine ](https://github.com/xmen12cc/Setting-Up-A-VPN)
+- <b>Troubleshooting Guides</b>
+  - [Basic Script for Ping Testing](https://github.com/xmen12cc/PingTestingScript)
+  - [Disk Space Checker Script](https://github.com/xmen12cc/DiskSpaceCheckerScript)
+  - [Password Strength Checker](https://github.com/xmen12cc/PasswordStrengthChecker)
+  - [Remote Desktop Connection Troubleshooting](https://github.com/xmen12cc/RemoteDesktopConnectionTroubleshooting)
 
 <h2>🌐 Webpage Projects 🌐</h2>
 - <b> <a href="https://github.com/xmen12cc/Webdev"> Web Portfolio </a> - Personal Projects Portfolio. </b> <br>
