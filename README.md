@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Setting Up Active Directory using Azure VMs](https://github.com/xmen12cc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/xmen12cc/azure-network-protocols)
+  - [How to make an automated VM Setup Script in Azure](https://github.com/xmen12cc/VMSetupScriptAzure)
 - <b>Virtual Private Network</b>
   - [VPN Setup in Virtual Machine ](https://github.com/xmen12cc/Setting-Up-A-VPN)
 - <b>Troubleshooting Guides</b>
