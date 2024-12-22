@@ -15,7 +15,8 @@
   - [Basic Script for Ping Testing](https://github.com/xmen12cc/PingTestingScript)
   - [Disk Space Checker Script](https://github.com/xmen12cc/DiskSpaceCheckerScript)
   - [Password Strength Checker](https://github.com/xmen12cc/PasswordStrengthChecker)
-  - [Remote Desktop Connection Troubleshooting](https://github.com/xmen12cc/RemoteDesktopConnectionTroubleshooting)
+  - [Simple Html troubleshooting page](https://github.com/xmen12cc/SimpleHTMLSupportPage)
+  - [Remote Desktop Connection Troubleshooting](https://github.com/xmen12cc/RemoteDesktopTroubleshooting)
 
 <h2>🌐 Webpage Projects 🌐</h2>
 - <b> <a href="https://github.com/xmen12cc/Webdev"> Web Portfolio </a> - Personal Projects Portfolio. </b> <br>
